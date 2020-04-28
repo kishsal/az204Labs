@@ -77,7 +77,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
     
     1.  In the **Resource group** section, select **Create new**, enter **ManagedPlatform**, and then select **OK**.
     
-    1.  In the **Storage account name** text box, enter **imgstor*[yourname]***.
+    1.  In the **Storage account name** text box, enter **imgstor**_[yourname]_.
     
     1.  In the **Location** list, select the **(US) East US** region.
     
