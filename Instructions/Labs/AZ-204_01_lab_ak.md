@@ -111,7 +111,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 1.  From the **Resource groups** blade, select the **ManagedPlatform** resource group that you created earlier in this lab.
 
-1.  From the **ManagedPlatform** blade, select the **imgstor*[yourname]*** storage account that you created earlier in this lab.
+1.  From the **ManagedPlatform** blade, select the **imgstor**_[yourname]_ storage account that you created earlier in this lab.
 
 1.  From the **Storage Account** blade, in the **Blob service** section, select the **Containers** link.
 
