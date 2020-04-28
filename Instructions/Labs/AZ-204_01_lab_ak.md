@@ -157,7 +157,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
     
     1.  In the **Resource group** drop-down list, select **ManagedPlatform**.
     
-    1.  In the **Name** text box, enter **imgapi*[yourname]***.
+    1.  In the **Name** text box, enter **imgapi**_[yourname]_.
 
     1.  In the **Publish** section, select **Code**.
 
@@ -189,7 +189,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 1.  From the **Resource groups** blade, select the **ManagedPlatform** resource group that you created earlier in this lab.
 
-1.  From the **ManagedPlatform** blade, select the **imgapi*[yourname]*** web app that you created earlier in this lab.
+1.  From the **ManagedPlatform** blade, select the **imgapi**_[yourname]_ web app that you created earlier in this lab.
 
 1.  From the **Web App** blade, in the **Settings** section, select the **Configuration** link.
 
