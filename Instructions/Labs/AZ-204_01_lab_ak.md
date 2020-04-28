@@ -49,7 +49,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 1.  In the open browser window, go to the Azure portal (<https://portal.azure.com>).
 
-!(../images/azure-portal.PNG)
+![The values for a storage account are displayed](../images/azure-portal.png 'Create a storage account')
 
 1.  At the sign-in page, enter the email address for your Microsoft account, and then select **Next**.
 
