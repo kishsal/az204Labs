@@ -49,6 +49,8 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 1.  In the open browser window, go to the Azure portal (<https://portal.azure.com>).
 
+![Open the Azure Portal](../images/azure-portal.PNG 'the Azure Portal')
+
 1.  At the sign-in page, enter the email address for your Microsoft account, and then select **Next**.
 
 1.  Enter the password for your Microsoft account, and then select **Sign in**.
