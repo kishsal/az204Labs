@@ -294,7 +294,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
 1.	From the **Resource groups** blade, find and select the **ManagedPlatform** resource group that you created earlier in this lab.
 
-1.	From the **ManagedPlatform** blade, select the **imgapi*[yourname]*** web app that you created earlier in this lab.
+1.	From the **ManagedPlatform** blade, select the **imgapi**_[yourname]_ web app that you created earlier in this lab.
 
 1.	From the **Web App** blade, select **Browse**.
 
