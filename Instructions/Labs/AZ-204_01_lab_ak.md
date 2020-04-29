@@ -168,7 +168,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
     1.  In the **Publish** section, select **Code**.
 
-    1.  In the **Runtime stack** drop-down list, select **.NET Core 3.0 (current)**.
+    1.  In the **Runtime stack** drop-down list, select **.NET Core 3.1 **.
 
     1.  In the **Operating System** section, select **Windows**.
 
@@ -332,11 +332,11 @@ In this exercise, you created a web app in Azure and then deployed your ASP.NET 
     
     1.  In the **Resource group** drop-down list, select **ManagedPlatform**.
     
-    1.  In the **Name** text box, enter **imgweb*[yourname]***.
+    1.  In the **Name** text box, enter **imgweb**_[yourname]_.
 
     1.  In the **Publish** section, select **Code**.
 
-    1.  In the **Runtime stack** drop-down list, select **.NET Core 3.0 (current)**.
+    1.  In the **Runtime stack** drop-down list, select **.NET Core 3.1 **.
 
     1.  In the **Operating System** section, select **Windows**.
 
@@ -362,7 +362,7 @@ In this exercise, you created a web app in Azure and then deployed your ASP.NET 
 
 1.  From the **Resource groups** blade, select the **ManagedPlatform** resource group that you created earlier in this lab.
 
-1.  From the **ManagedPlatform** blade, select the **imgweb*[yourname]*** web app that you created earlier in this lab.
+1.  From the **ManagedPlatform** blade, select the **imgweb**_[yourname]_ web app that you created earlier in this lab.
 
 1.  From the **Web App** blade, in the **Settings** section, select the **Configuration** link.
 
@@ -452,7 +452,7 @@ In this exercise, you created a web app in Azure and then deployed your ASP.NET 
 
 1.	From the **Resource groups** blade, select the **ManagedPlatform** resource group that you created earlier in this lab.
 
-1.	From the **ManagedPlatform** blade, select the **imgweb*[yourname]*** web app that you created earlier in this lab.
+1.	From the **ManagedPlatform** blade, select the **imgweb**_[yourname]_ web app that you created earlier in this lab.
 
 1.	From the **Web App** blade, select **Browse**.
 
@@ -479,6 +479,8 @@ In this exercise, you created a web app in Azure and then deployed your ASP.NET 
 In this exercise, you created an Azure web app and deployed an existing web application’s code to the resource in the cloud.
 
 ### Exercise 3: Clean up your subscription 
+
+> _NOTE: you can also perform the delete operation in the Portal by selecting the resource group **ManagedPlatform** and clicking **delete** _
 
 #### Task 1: Open Azure Cloud Shell
 
