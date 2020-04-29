@@ -168,7 +168,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
     1.  In the **Publish** section, select **Code**.
 
-    1.  In the **Runtime stack** drop-down list, select **.NET Core 3.1 **.
+    1.  In the **Runtime stack** drop-down list, select .NET Core 3.1 
 
     1.  In the **Operating System** section, select **Windows**.
 
@@ -336,7 +336,7 @@ In this exercise, you created a web app in Azure and then deployed your ASP.NET 
 
     1.  In the **Publish** section, select **Code**.
 
-    1.  In the **Runtime stack** drop-down list, select **.NET Core 3.1 **.
+    1.  In the **Runtime stack** drop-down list, select .NET Core 3.1 
 
     1.  In the **Operating System** section, select **Windows**.
 
@@ -480,7 +480,7 @@ In this exercise, you created an Azure web app and deployed an existing web appl
 
 ### Exercise 3: Clean up your subscription 
 
-> _NOTE: you can also perform the delete operation in the Portal by selecting the resource group **ManagedPlatform** and clicking **delete** _
+_NOTE: you can also perform the delete operation in the Portal by selecting the resource group **ManagedPlatform** and clicking delete _
 
 #### Task 1: Open Azure Cloud Shell
 
