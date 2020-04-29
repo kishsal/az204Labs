@@ -255,6 +255,12 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
     ```
     az webapp list --resource-group ManagedPlatform
     ```
+    > _NOTE: this will give you a JSON output.  To get a parsed text output use_
+        
+    ```
+    az webapp list --resource-group ManagedPlatform --out table
+    ```
+    
 
 1.	Enter the following command, and then select Enter to find the apps that have the **imgapi\*** prefix:
 
