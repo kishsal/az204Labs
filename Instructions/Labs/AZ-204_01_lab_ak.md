@@ -45,6 +45,8 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 #### Task 1: Open the Azure portal
 
+_NOTE: When the lab instructions mention a **blade** they are referring to the pop-out menu that expands sideways to the right as you make a selection in the Portal_
+
 1.  On the taskbar, select the **Microsoft Edge** icon.
 
 1.  In the open browser window, go to the Azure portal (<https://portal.azure.com>).
@@ -143,9 +145,9 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 1.  In the search box, enter **Web**, and then select Enter.
 
-1.  From the **Marketplace** search results blade, select the **Web App** result.
+1.  From the **Marketplace** search results blade, select the **Web App** result. _NOTE: This will show up under the **App Services** actegory_
 
-1.  From the **Web App** blade, select **Create**.
+1.  From the **App Services** blade, select **Create**. _NOTE: this will automatically take you to the **Web App** blade_
 
 1.  From the second **Web App** blade, find the tabs from the blade, such as **Basics**.
 
