@@ -41,7 +41,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 -   Visual Studio Code
 
-> _NOTE: if you are working on your own computer you will need to install **Visual Studio Code** and the Azure CLI_
+> _NOTE: if you are working on your own computer you will need to install **Visual Studio Code** and the Azure CLI_. 
 You can download the CLI from this link https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest
 
 ### Exercise 1: Build a back-end API by using Azure Storage and the Web Apps feature of Azure App Service
