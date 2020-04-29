@@ -145,9 +145,11 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
 1.  In the search box, enter **Web**, and then select Enter.
 
-1.  From the **Marketplace** search results blade, select the **Web App** result. _NOTE: This will show up under the **App Services** actegory_
+1.  From the **Marketplace** search results blade, select the **Web App** result. 
+> _NOTE: This will show up under the **App Services** category_
 
-1.  From the **App Services** blade, select **Create**. _NOTE: this will automatically take you to the **Web App** blade_
+1.  From the **App Services** blade, select **Create**. 
+> _NOTE: this will automatically take you to the **Web App** blade_
 
 1.  From the second **Web App** blade, find the tabs from the blade, such as **Basics**.
 
