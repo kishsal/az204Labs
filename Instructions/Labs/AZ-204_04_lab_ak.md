@@ -766,7 +766,7 @@ In this exercise, you configured your ASP.NET web application to connect to your
 
 1.  From the **Resource groups** blade, find and select the **PolyglotData** resource group that you created earlier in this lab.
 
-1.  From the **PolyglotData** blade, select the **polycosmos*[yourname]*** Azure Cosmos DB account that you created earlier in this lab.
+1.  From the **PolyglotData** blade, select the **polycosmos**_[yourname]_ Azure Cosmos DB account that you created earlier in this lab.
 
 1.  From the **Azure Cosmos DB account** blade, find and select the **Data Explorer** link from the blade.
 
