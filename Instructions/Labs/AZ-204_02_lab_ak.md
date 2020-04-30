@@ -96,6 +96,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 #### Task 3: Create an Azure Functions app
 
 1.  In the Azure portal's navigation pane, select the **Create a resource** link.
+> **HINT:** You can return to the _home_ main navigation in the Azure Portal by clicking the **show/hide** navigation icon in the top left of the Portal
 
 1.  From the **New** blade, find the **Search the Marketplace** text box.
 
