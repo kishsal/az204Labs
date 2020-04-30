@@ -345,7 +345,7 @@ In this exercise, you created a basic function that echoes the content sent via 
 
 1.  On the **Resource groups** blade, find and then select the **Serverless** resource group that you created earlier in this lab.
 
-1.  On the **Serverless** blade, select the **funclogic*[yourname]*** function app that you created earlier in this lab.
+1.  On the **Serverless** blade, select the **funclogic**_[yourname]_ function app that you created earlier in this lab.
 
 1.  On the **Function Apps** blade, select the plus sign (**+**) next to the **Functions** drop-down list.
 
@@ -371,7 +371,7 @@ In this exercise, you created a basic function that echoes the content sent via 
 
 1.  Back on the **Function Apps** blade, perform the following actions:
 
-    1.  Expand the node for the **funclogic*[yourname]*** function app that you created earlier in this lab.
+    1.  Expand the node for the **funclogic**_[yourname]_ function app that you created earlier in this lab.
 
     1.  Expand the **Functions** node.
 
