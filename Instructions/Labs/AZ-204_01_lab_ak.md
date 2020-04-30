@@ -149,10 +149,10 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 1.  In the search box, enter **Web**, and then select Enter.
 
 1.  From the **Marketplace** search results blade, select the **Web App** result. 
-> _NOTE: This will show up under the **App Services** category_
+> _HINT: This will show up under the **App Services** category_
 
 1.  From the **App Services** blade, select **Create**. 
-> _NOTE: this will automatically take you to the **Web App** blade_
+> _HINT: this will automatically take you to the **Web App** blade_
 
 1.  From the second **Web App** blade, find the tabs from the blade, such as **Basics**.
 
@@ -255,7 +255,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
     ```
     az webapp list --resource-group ManagedPlatform
     ```
-    > _NOTE: this will give you a JSON output.  To get a parsed text output use_
+    > _HINT: this will give you a JSON output.  To get a parsed text output use_
         
     ```
     az webapp list --resource-group ManagedPlatform --out table
@@ -299,7 +299,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 1.	From the **Web App** blade, select **Browse**.
 
 1.	This will perform a GET request to the root of the website. You can then observe the JavaScript Object Notation (JSON) array that's returned. This array should contain the URL for your single uploaded image in your Storage account. 
-> **Note:** you could also used Postman or cURL to test the API
+> **HINT:** you can also use _Postman_ or _cURL_ to test the API
 
 1.	Return to your browser window with the Azure portal.
 
