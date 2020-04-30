@@ -298,7 +298,8 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
 1.	From the **Web App** blade, select **Browse**.
 
-1.	Perform a GET request to the root of the website, and then observe the JavaScript Object Notation (JSON) array that's returned. This array should contain the URL for your single uploaded image in your Storage account.
+1.	This will perform a GET request to the root of the website. You can then observe the JavaScript Object Notation (JSON) array that's returned. This array should contain the URL for your single uploaded image in your Storage account. 
+> **Note:** you could also used Postman or cURL to test the API
 
 1.	Return to your browser window with the Azure portal.
 
