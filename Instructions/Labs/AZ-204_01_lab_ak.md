@@ -481,7 +481,7 @@ In this exercise, you created an Azure web app and deployed an existing web appl
 
 ### Exercise 3: Clean up your subscription 
 
-> NOTE: you can also perform the delete operation in the Portal by selecting the resource group **ManagedPlatform** and clicking **delete**
+> NOTE: you can also perform the delete operation in the Portal by selecting the resource group **ManagedPlatform** and clicking **delete**.  If you would like to retain the sites you should click **stop** for both Web Apps to save on charges to your "Azure Pass"
 
 #### Task 1: Open Azure Cloud Shell
 
