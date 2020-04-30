@@ -320,10 +320,11 @@ In this exercise, you created a web app in Azure and then deployed your ASP.NET 
 1.  In the search box, enter **Web**, and then select Enter.
 
 1.  From the **Marketplace** search results blade, select the **Web App** result.
+> _HINT: This will show up under the **App Services** category_
 
-1.  From the **Web App** blade, select **Create**.
+1.  From the **App Services** blade, select **Create**.
 
-1.  From the second **Web App** blade, find the tabs from the blade, such as **Basics**.
+1.  From the **Web App** blade, find the tabs from the blade, such as **Basics**.
 
     > **Note**: Each tab represents a step in the workflow to create a new web app. You can select **Review + Create** at any time to skip the remaining tabs.
 
