@@ -145,7 +145,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icon for t
 
 1.  Select **Create** to create the web app by using your specified configuration. 
 
-    > **Note**: Wait for the creation task to complete before you move forward with this lab. _Hint: The web site still need to be configured for content.  Ignore the "Configuration Settings Missing" message for now.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%205.15.34%20PM.png)
+    > **Note**: Wait for the creation task to complete before you move forward with this lab. _Hint: The web site still need to be configured for content.  Ignore the "Configuration Settings Missing" message for now._![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%205.15.34%20PM.png)
 
 1.  In the Azure portal's navigation pane, select **Resource groups**.
 
@@ -219,12 +219,11 @@ In this exercise, you created an Azure Storage account and an Azure Web App that
         az provider register --help
         ```
 
-    1.  Enter the following command, and then select Enter to register the **Microsoft.CDN** namespace with your current subscription:
+    1.  Enter the following command, and then select Enter to register the **Microsoft.CDN** namespace with your current subscription:![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.09.03%20PM.png)
 
         ```
         az provider register --namespace Microsoft.CDN
         ```
-![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.09.03%20PM.png)
 1.  Close the Cloud Shell pane in the portal.
 
 #### Task 3: Create a Content Delivery Network profile
