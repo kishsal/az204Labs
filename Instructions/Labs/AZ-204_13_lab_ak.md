@@ -47,6 +47,8 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icon for t
 1.  Enter the password for your Microsoft account, and then select **Sign in**.
 
     > **Note**: If this is your first time signing in to the Azure portal, you'll be offered a tour of the portal. Select **Get Started** to skip the tour and begin using the portal.
+    
+    ![Open the Azure Portal](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/azure-portal.PNG 'the Azure Portal')
 
 
 #### Task 2: Create a Storage account
