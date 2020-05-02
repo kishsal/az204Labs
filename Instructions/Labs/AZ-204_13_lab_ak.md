@@ -526,7 +526,7 @@ In this exercise, you uploaded multimedia content as blobs to Storage containers
 
 1.  On the taskbar, right-click the **Microsoft Edge** icon or activate the shortcut menu, and then select **New window**.
 
-1.  In the new browser window, go to the URL that you constructed for the **campus.jpg** media resource, and then verify that the resource was successfully found.
+1.  In the new browser window, go to the URL that you constructed for the **campus.jpg** media resource, and then verify that the resource was successfully found.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.36.33%20PM.png)
 
     > **Note**: If the content isn't available yet, the CDN endpoint is still initializing. This initialization process can take anywhere from 5 to 15 minutes.
 
@@ -556,7 +556,7 @@ In this exercise, you uploaded multimedia content as blobs to Storage containers
 
     1.  In the **Add/Edit application setting** pop-up dialog box, update the **Value** text box by entering the **Endpoint hostname** URL from the **cdnmedia*[yourname]*** endpoint that you copied earlier in the lab, and then select **OK**.
     
-    1.  Select the existing **CDNVideoEndpoint** application setting.
+    1.  Select the existing **CDNVideoEndpoint** application setting.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.39.44%20PM.png)
 
     1.  In the **Add/Edit application setting** pop-up dialog box, update the **Value** text box by entering the **Endpoint hostname** URL from the **cdnvideo*[yourname]*** endpoint that you copied earlier in the lab, and then selec **OK**.
     
