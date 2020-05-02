@@ -372,7 +372,7 @@ In this exercise, you registered the resource provider for Content Delivery Netw
 
 1.  On the **App Service** blade, select **Browse**. A new browser window or tab will open and return the current website.
 
-1.  Observe the error message displayed on the screen. The website won't work until you configure the specified settings to reference multimedia content.
+1.  Observe the error message displayed on the screen. The website won't work until you configure the specified settings to reference multimedia content.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.22.51%20PM.png)
 
 1.  Return to your currently open browser window that's displaying the Azure portal.
 
@@ -438,23 +438,23 @@ In this exercise, you registered the resource provider for Content Delivery Netw
 
 1.  On the **MarketingContent** blade, select the **landingpage*[yourname]*** web app that you created earlier in this lab.
 
-1.  On the **App Service** blade, in the **Settings** category, select the **Configuration** link.
+1.  On the **App Service** blade, in the **Settings** category, select the **Configuration** link.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.27.59%20PM.png)
 
 1.  In the **Configuration** section, perform the following actions:
     
     1.  Select the **Application settings** tab, and then select **New application setting**.
     
-    1.  In the **Add/Edit application setting** pop-up window, in the **Name** text box, enter **CDNMediaEndpoint**.
+    1.  In the **Add/Edit application setting** pop-up window, in the **Name** text box, enter **CDNMediaEndpoint**.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.27.59%20PM.png)
     
-    1.  In the **Value** text box, enter the **URI** value of the **media** container in the **contenthost*[yourname]*** storage account that you recorded earlier in this lab.
+    1.  In the **Value** text box, enter the **URI** value of the **media** container in the **contenthost*[yourname]*** storage account that you recorded earlier in this lab.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.25.22%20PM.png)
     
     1.  Leave the **deployment slot setting** text box set to its default value, and then select **OK** to close the pop-up window.
     
     1.  Return to the **Configuration** section, and then select **New application setting**.
     
-    1.  In the **Add/Edit application setting** pop-up window, in the **Name** text box, enter **CDNVideoEndpoint**.
+    1.  In the **Add/Edit application setting** pop-up window, in the **Name** text box, enter **CDNVideoEndpoint**.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.30.31%20PM.png)
     
-    1.  In the **Value** text box, enter the **URI** value of the **video** container in the **contenthost*[yourname]*** storage account that you recorded earlier in this lab.
+    1.  In the **Value** text box, enter the **URI** value of the **video** container in the **contenthost*[yourname]*** storage account that you recorded earlier in this lab.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.27.09%20PM.png)
     
     1.  Leave the **deployment slot setting** text box set to its default value, and then select **OK** to close the pop-up window.
     
@@ -476,7 +476,7 @@ In this exercise, you registered the resource provider for Content Delivery Netw
 
 1.  Back on the **App Service** blade, select **Browse**. A new browser window or tab will open and return the current website.
 
-1.  Observe the updated website rendering multimedia content of various types.
+1.  Observe the updated website rendering multimedia content of various types.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.31.43%20PM.png)
 
 1.  Return to your currently open browser window that's displaying the Azure portal.
 
