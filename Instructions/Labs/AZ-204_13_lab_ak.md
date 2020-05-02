@@ -444,9 +444,9 @@ In this exercise, you registered the resource provider for Content Delivery Netw
     
     1.  Select the **Application settings** tab, and then select **New application setting**.
     
-    1.  In the **Add/Edit application setting** pop-up window, in the **Name** text box, enter **CDNMediaEndpoint**.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.27.59%20PM.png)
+    1.  In the **Add/Edit application setting** pop-up window, in the **Name** text box, enter **CDNMediaEndpoint**.
     
-    1.  In the **Value** text box, enter the **URI** value of the **media** container in the **contenthost*[yourname]*** storage account that you recorded earlier in this lab.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.25.22%20PM.png)
+    1.  In the **Value** text box, enter the **URI** value of the **media** container in the **contenthost*[yourname]*** storage account that you recorded earlier in this lab.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.29.13%20PM.png)
     
     1.  Leave the **deployment slot setting** text box set to its default value, and then select **OK** to close the pop-up window.
     
@@ -586,7 +586,7 @@ In this exercise, you uploaded multimedia content as blobs to Storage containers
 
 1.  In the new browser window, go to the **Endpoint hostname** URL for the **cdnweb*[yourname]*** endpoint.
 
-1.  Observe the website and multimedia content that are all served using Content Delivery Network.
+1.  Observe the website and multimedia content that are all served using Content Delivery Network.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.43.43%20PM.png)
 
 #### Review
 
