@@ -85,9 +85,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icon for t
 
     1.  Select **Review + Create**.
 
-1.  On the **Review + Create** tab, review the options that you selected during the previous steps.
-
->![Create a storage account](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%205.06.09%20PM.png)
+1.  On the **Review + Create** tab, review the options that you selected during the previous steps. ![Create a storage account](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%205.06.09%20PM.png)
 
 1.  Select **Create** to create the storage account by using your specified configuration. 
 
