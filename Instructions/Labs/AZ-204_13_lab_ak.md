@@ -145,7 +145,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icon for t
 
 1.  Select **Create** to create the web app by using your specified configuration. 
 
-    > **Note**: Wait for the creation task to complete before you move forward with this lab. _Hint: The web site still need to be configured for content.  Ignore the "Configuration Settings Missing" message for now._![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%205.15.34%20PM.png)
+    > **Note**: Wait for the creation task to complete before you move forward with this lab. _Hint: The web site still needs to be configured for content.  Ignore the "Configuration Settings Missing" message for now. We will add those configurations in a future lab step_![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%205.15.34%20PM.png)
 
 1.  In the Azure portal's navigation pane, select **Resource groups**.
 
@@ -252,7 +252,7 @@ In this exercise, you created an Azure Storage account and an Azure Web App that
 
     1.  Ensure that the **Create a new CDN endpoint now** check box is cleared.
 
-    1.  Select **Create**.
+    1.  Select **Create**.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.15.52%20PM.png)
   
     > **Note**: Wait for Azure to finish creating the CDN profile before you move forward with the lab. You'll receive a notification when the app is created.
 
@@ -286,7 +286,7 @@ In this exercise, you created an Azure Storage account and an Azure Web App that
     
     1.  Select **OK**.
 
-1.  Observe the updated list of containers.
+1.  Observe the updated list of containers![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.18.13%20PM.png).
 
 #### Task 5: Create Content Delivery Network endpoints
 
@@ -314,7 +314,7 @@ In this exercise, you created an Azure Storage account and an Azure Web App that
 
     1.  In the **Optimized for** drop-down list, select **General web delivery**.
 
-    1.  Select **Add**.
+    1.  Select **Add**.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.19.37%20PM.png)
 
 1.  Back on the **CDN profile** blade, select **+ Endpoint** again.
 
@@ -334,7 +334,7 @@ In this exercise, you created an Azure Storage account and an Azure Web App that
 
     1.  In the **Optimized for** drop-down list, select **Video on demand media streaming**.
 
-    1.  Select **Add**.
+    1.  Select **Add**.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.20.46%20PM.png)
 
 1.  Back on the **CDN profile** blade, select **+ Endpoint** again.
 
@@ -354,7 +354,7 @@ In this exercise, you created an Azure Storage account and an Azure Web App that
 
     1.  In the **Optimized for** drop-down list, select **General web delivery**.
 
-    1.  Select **Add**.
+    1.  Select **Add**.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%206.22.08%20PM.png)
 
 #### Review
 
