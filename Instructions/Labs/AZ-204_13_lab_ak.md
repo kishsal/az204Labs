@@ -91,6 +91,8 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icon for t
 
     > **Note**: Wait for the creation task to complete before you move forward with this lab.
     
+!(https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%205.07.37%20PM.png)
+    
 #### Task 3: Create a web app by using Azure App Service
 
 1.  In the Azure portal's navigation pane, select **Create a resource**.
@@ -125,7 +127,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icon for t
 
     1.  Leave the **SKU and size** section set to its default value.
 
-    1.  Select **Next: Docker**.
+    1.  Select **Next: Docker**.!(https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab13/Screen%20Shot%202020-05-01%20at%205.12.12%20PM.png)
 
 1.  On the **Docker** tab, perform the following actions:
 
