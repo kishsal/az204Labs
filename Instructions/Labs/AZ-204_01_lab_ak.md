@@ -147,8 +147,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
 #### Task 4: Create a web app
 
-1.  In the Azure portal's navigation pane, select **Create a resource**.
-> **HINT:** The icon looks like a "+" (plus sign)![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/create%20a%20resource.png)
+1.  In the Azure portal's navigation pane, select **Create a resource**.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/create%20a%20resource.png)
 
 1.  From the **New** blade, find the **Search the Marketplace** text box.
 
@@ -190,7 +189,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
     1.  Select **Review + Create**.
 
-1.  From the **Review + Create** tab, review the options that you selected during the previous steps.
+1.  From the **Review + Create** tab, review the options that you selected during the previous steps.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/web%20app.png)
 
 1.  Select **Create** to create the web app by using your specified configuration. Wait for the creation task to complete before you move forward with this lab.
 
@@ -214,7 +213,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
     
     1.  Leave the **Deployment slot setting** text box set to its default value, and then select **OK** to close the pop-up dialog and return to the **Configuration** section.
     
-    1.  Select **Save** from the blade to persist your settings.
+    1.  Select **Save** from the blade to persist your settings. ![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/save%20button.png)
   
     Wait for your application settings to persist before you move forward with the lab.
 
