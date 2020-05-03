@@ -66,7 +66,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
 1.  In the Azure portal's navigation pane, select **All services**.
 
-1.  From the **All services** blade, select **Storage Accounts**.
+1.  From the **All services** blade, select **Storage Accounts**.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/create%20storage.png)
 
 1.  From the **Storage accounts** blade, get your list of storage account instances.
 
@@ -112,7 +112,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
 #### Task 3: Upload a sample blob
 
-1.  In the Azure portal's navigation pane, select **Resource groups**.
+1.  In the Azure portal's navigation pane, select **Resource groups**._HINT: you can hide or unhide the main navigation using the top-left icon_ ![Hide/Unhide](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/navigation%20hide%20or%20unhide.png)
 
 1.  From the **Resource groups** blade, select the **ManagedPlatform** resource group that you created earlier in this lab.
 
@@ -143,7 +143,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 #### Task 4: Create a web app
 
 1.  In the Azure portal's navigation pane, select **Create a resource**.
-> **HINT:** The icon looks like a "+" (plus sign)
+> **HINT:** The icon looks like a "+" (plus sign)![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/create%20a%20resource.png)
 
 1.  From the **New** blade, find the **Search the Marketplace** text box.
 
