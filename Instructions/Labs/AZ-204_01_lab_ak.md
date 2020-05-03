@@ -530,3 +530,5 @@ In this exercise, you created an Azure web app and deployed an existing web appl
 #### Review
 
 In this exercise, you cleaned up your subscription by removing the resource groups used in this lab.
+
+- HINT: you can check your Azure balance using this link ![Check Azure balance for Azure Pass](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/Screenshot%20(1).png)
