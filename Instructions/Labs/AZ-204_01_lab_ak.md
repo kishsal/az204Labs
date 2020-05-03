@@ -101,7 +101,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
     
     1.  Select **Review + Create**.
 
-1.  From the **Review + Create** tab, review the options that you specified in the previous steps.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/Screenshot%20(2).png)
+1.  From the **Review + Create** tab, review the options that you specified in the previous steps.
 
 1.  Select **Create** to create the storage account by using your specified configuration.
 
