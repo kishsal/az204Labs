@@ -155,7 +155,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
 1.  From the **Marketplace** search results blade, select the **Web App** result. 
 
-1.  From the **Web App** blade, select **Create**. 
+1.  From the **Web App** blade, select **Create**. ![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/Screenshot%20(13).png)
 
 1.  From the second **Web App** blade, find the tabs from the blade, such as **Basics**.
 
@@ -201,7 +201,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
 1.  From the **ManagedPlatform** blade, select the **imgapi**_[yourname]_ web app that you created earlier in this lab.
 
-1.  From the **Web App** blade, in the **Settings** section, select the **Configuration** link.
+1.  From the **Web App** blade, in the **Settings** section, select the **Configuration** link.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/Screenshot%20(10).png)
 
 1.  In the **Configuration** section, perform the following actions:
     
@@ -461,7 +461,7 @@ In this exercise, you created a web app in Azure and then deployed your ASP.NET 
 
 1.	From the **Web App** blade, select **Browse**.
 
-1.	Observe the list of images in the gallery. The gallery should list a single image that was uploaded to Storage earlier in the lab.
+1.	Observe the list of images in the gallery. The gallery should list a single image that was uploaded to Storage earlier in the lab.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/Screenshot%20(14).png)
 
 1.	From the **Contoso Photo Gallery** webpage, find the **Upload a new image** section, and then perform the following actions:
     
@@ -471,7 +471,7 @@ In this exercise, you created a web app in Azure and then deployed your ASP.NET 
     
     1.  Select **Upload**.
 
-1.	Observe that the list of gallery images has updated with your new image.
+1.	Observe that the list of gallery images has updated with your new image.![](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/Screenshot%20(15).png)
 
     > **Note**: In some rare cases, you might need to refresh your browser window to retrieve the new image.
 
