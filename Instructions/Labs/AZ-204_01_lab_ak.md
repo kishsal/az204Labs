@@ -61,6 +61,8 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
     > **Note**: If this is your first time signing in to the Azure portal, a dialog box will display offering a tour of the portal. Select **Get Started** to skip the tour and begin using the portal.
     
     ![Open the Azure Portal](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/azure-portal.PNG 'the Azure Portal')
+    >_HINT: you can hide or unhide the main navigation using the top-left icon_ ![Hide/Unhide](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/navigation%20hide%20or%20unhide.png)
+    ![Unhide](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/navigation%20unhide.png)
 
 #### Task 2: Create a Storage account
 
@@ -112,7 +114,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
 #### Task 3: Upload a sample blob
 
-1.  In the Azure portal's navigation pane, select **Resource groups**._HINT: you can hide or unhide the main navigation using the top-left icon_ ![Hide/Unhide](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/navigation%20hide%20or%20unhide.png)
+1.  In the Azure portal's navigation pane, select **Resource groups**.
 
 1.  From the **Resource groups** blade, select the **ManagedPlatform** resource group that you created earlier in this lab.
 
