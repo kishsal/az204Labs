@@ -56,13 +56,16 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 
 1.  At the sign-in page, enter the email address for your Microsoft account, and then select **Next**.
 
-1.  Enter the password for your Microsoft account, and then select **Sign in**.
+1.  Enter the password for your Microsoft account, and then select **Sign in**.![Open the Azure Portal](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/azure-portal.PNG 'the Azure Portal')
 
     > **Note**: If this is your first time signing in to the Azure portal, a dialog box will display offering a tour of the portal. Select **Get Started** to skip the tour and begin using the portal.
     
-    ![Open the Azure Portal](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/azure-portal.PNG 'the Azure Portal')
-    >_HINT: you can hide or unhide the main navigation using the top-left icon_ ![Hide/Unhide](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/navigation%20hide%20or%20unhide.png)
-    ![Unhide](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/navigation%20unhide.png)
+    
+- _HINT: you can hide or unhide the main navigation using the top-left icon_ 
+![Hide/Unhide](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/navigation%20hide%20or%20unhide.png)
+
+- _HINT: you can click the buttin again to unhide the navigation
+![Unhide](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/navigation%20unhide.png)
 
 #### Task 2: Create a Storage account
 
