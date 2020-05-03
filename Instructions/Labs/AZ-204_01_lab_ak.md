@@ -64,7 +64,7 @@ _NOTE: When the lab instructions mention a **blade** they are referring to the p
 - _HINT: you can hide or unhide the main navigation using the top-left icon_ 
 ![Hide/Unhide](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/navigation%20hide%20or%20unhide.png)
 
-- _HINT: you can click the buttin again to unhide the navigation
+- _HINT: you can click the buttin again to unhide the navigation_
 ![Unhide](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab1/navigation%20unhide.png)
 
 #### Task 2: Create a Storage account
