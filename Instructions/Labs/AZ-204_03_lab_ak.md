@@ -185,7 +185,7 @@ In this exercise, you created a couple of placeholder containers in the storage 
 
 1.  In the **File Explorer** window that opens, browse to **Allfiles (F):\\Allfiles\\Labs\\03\\Starter\\BlobManager**, and then select **Select Folder**.
 
-1.  In the **Visual Studio Code** window, right-click or activate the shortcut menu for the Explorer pane, and then select **Open in Terminal**.
+1.  In the **Visual Studio Code** window, right-click or activate the shortcut menu for the Explorer pane, and then select **Open in Terminal**. _Hint: you may want to check that you are getting a response , for example az --version or dotnet /?_
 
 1.  At the open command prompt, enter the following command, and then select Enter to create a new .NET project named **BlobManager** in the current folder:
 
