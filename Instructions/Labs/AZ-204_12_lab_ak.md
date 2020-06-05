@@ -203,6 +203,10 @@ In this exercise, you created the resources that you'll use for the remainder of
 
 ### Exercise 2: Monitor a local web application by using Application Insights 
 
+_HINT: you can save time by openning the pre-built solution from the "solutions" folder_
+**NOTE** _If you use the pre-built solution you will still need to download the packages in step 7-10_ 
+_You will also need to update the code with your Instrumentation Key_ 
+
 #### Task 1: Build a .NET Web API project
 
 1.  On the taskbar, select the **Visual Studio Code** icon.
