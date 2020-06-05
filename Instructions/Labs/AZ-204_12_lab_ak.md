@@ -338,6 +338,7 @@ _HINT: you can save time by openning the pre-built solution from the "solutions"
 1.  From the **Application Insights** blade, in the tiles in the center of the blade, find the displayed metrics. Specifically, find the number of server requests that have occurred and the average server response time.
 
     > **Note**: It can take up to five minutes to observe requests in the Application Insights metrics charts.
+![Application Insights](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab12/Screen%20Shot%202020-06-05%20at%203.17.05%20PM.png)
 
 #### Review
 
@@ -422,6 +423,8 @@ In this exercise, you created an API by using ASP.NET and configured it to strea
     > **Note**: For example, if your URL is https://smpapistudent.azurewebsites.net, the new URL would be https://smpapistudent.azurewebsites.net/weatherforecast.
 
 1.  Find the JavaScript Object Notation (JSON) array that's returned as a result of using the API.
+
+![the Azure version](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab12/Screen%20Shot%202020-06-05%20at%203.30.32%20PM.png)
 
 #### Task 2: Configure in-depth metric collection for Web Apps
 
