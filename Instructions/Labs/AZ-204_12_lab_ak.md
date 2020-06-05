@@ -125,7 +125,7 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
     1.  In the **Publish** section, select **Code**.
 
-    1.  In the **Runtime stack** drop-down list, select **.NET Core 3.0 (current)**.
+    1.  In the **Runtime stack** drop-down list, select **.NET Core 3.1 (current)**.
 
     1.  In the **Operating System** section, select **Windows**.
 
@@ -320,6 +320,8 @@ _You will also need to update the code with your Instrumentation Key_
 1.  In the open browser window, go to the **/weatherforecast** relative path of your test application that's hosted at **localhost** on port **5000**.
     
     > **Note**: The full URL is http://localhost:5000/weatherforecast
+
+![running the app locally](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab12/Screen%20Shot%202020-06-05%20at%203.15.20%20PM.png)
 
 1.  Close the browser window that's displaying the http://localhost:5000/weatherforecast address.
 
