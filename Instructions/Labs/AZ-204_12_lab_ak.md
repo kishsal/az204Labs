@@ -323,9 +323,9 @@ _You will also need to update the code with your Instrumentation Key_
 
 ![running the app locally](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab12/Screen%20Shot%202020-06-05%20at%203.15.20%20PM.png)
 
-1.  Close the browser window that's displaying the http://localhost:5000/weatherforecast address.
+4.  Close the browser window that's displaying the http://localhost:5000/weatherforecast address.
 
-1.  Close the currently running Visual Studio Code application.
+5.  Close the currently running Visual Studio Code application.
 
 #### Task 4: Get metrics in Application Insights
 
