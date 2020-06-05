@@ -484,6 +484,8 @@ In this exercise, you created an API by using ASP.NET and configured it to strea
 
     > **Note**: It can take up to five minutes to observe requests in the Application Insights metrics charts.
 
+![Application Insights](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab12/Screen%20Shot%202020-06-05%20at%203.37.37%20PM.png)
+
 #### Task 4: View real-time metrics in Application Insights
 
 1.  Return to your currently open browser window that's displaying the Azure portal.
@@ -507,6 +509,8 @@ In this exercise, you created an API by using ASP.NET and configured it to strea
 1.  Observe the updated **Live Metrics Stream** blade.
 
     > **Note**: The **Incoming Requests** section should update within seconds, showing the requests that you made to the web app.
+
+![Live Metrics Stream](https://github.com/networksetcetera/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/images/lab12/Screen%20Shot%202020-06-05%20at%203.39.51%20PM.png)
 
 #### Review
 
