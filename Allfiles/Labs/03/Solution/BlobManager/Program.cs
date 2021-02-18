@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 public class Program
 {
-    private const string blobServiceEndpoint = "<primary-blob-service-endpoint>";
-    private const string storageAccountName = "<storage-account-name>";
-    private const string storageAccountKey = "<key>";
+    private const string blobServiceEndpoint = "https://mediastorks.blob.core.windows.net/";
+    private const string storageAccountName = "mediastorks";
+    private const string storageAccountKey = "zVftHyP8xnmVS/sp4xKBM9jaubQ7MiGJP8K9RnkSmohAxXvcdYq29BnL1tbXlQ66IG9eXwQC7BwtoKkCvynJIg==";
+    
 
     public static async Task Main(string[] args)
     {
